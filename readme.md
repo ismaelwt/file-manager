@@ -7,5 +7,5 @@ Maven project Challenge
 
 - Test: mvn clean test
 
-- Run: javar -jar target/challenge.jar
+- Run: java -jar target/challenge.jar
 
